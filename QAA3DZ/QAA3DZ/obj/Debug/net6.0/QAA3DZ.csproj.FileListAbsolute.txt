@@ -1,0 +1,15 @@
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\bin\Debug\net6.0\QAA3DZ.exe
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\bin\Debug\net6.0\QAA3DZ.deps.json
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\bin\Debug\net6.0\QAA3DZ.runtimeconfig.json
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\bin\Debug\net6.0\QAA3DZ.dll
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\bin\Debug\net6.0\QAA3DZ.pdb
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.csproj.AssemblyReference.cache
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.AssemblyInfoInputs.cache
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.AssemblyInfo.cs
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.csproj.CoreCompileInputs.cache
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.dll
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\refint\QAA3DZ.dll
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.pdb
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\QAA3DZ.genruntimeconfig.cache
+C:\Users\gadji\OneDrive\Рабочий стол\QAA\QAAЦиклы\QAA3DZ\QAA3DZ\obj\Debug\net6.0\ref\QAA3DZ.dll
